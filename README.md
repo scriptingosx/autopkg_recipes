@@ -1,5 +1,5 @@
-Scripting OS X's AutoPkg Recipes
-================================
+This repo has moved!
+====================
 
 This repository has moved to join the autopkg list of repositories! This particular copy will not be updated any more! Please add the repo at:
 
